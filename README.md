@@ -10,3 +10,4 @@ Use keyboard short-cut: CMD+CTRL+H to active/deactivate the highlight.
 
 ## TODO:
 * [ ] System tray icon to hide/show overlay and adjust size/color
+* [ ] Support For Windows and Linux systems
